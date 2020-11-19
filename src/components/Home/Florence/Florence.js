@@ -1,6 +1,6 @@
 import React from 'react';
 import fish1 from'../../../Illustration/16 [Converted]@2x.png'
-
+import './Florence.css'
 const Florence = () => {
     return (
         <div className="row">
