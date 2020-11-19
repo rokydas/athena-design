@@ -6,9 +6,9 @@ const Pricing = () => {
 
     return (
         <div className="pricing">
-            <h1 className="p-5">CHOOSE YOUR DEDICATED TEAM</h1>
-            <div className="row">
-                <div className="col-md-4">
+            <p className="p-5" style={{fontSize: '40px'}}>CHOOSE YOUR DEDICATED TEAM</p>
+            <div className="custom-container">
+                <div className="row">
                     {
                         pricingData.map(pricing => <PricingSingle pricing={pricing} key={pricing.id} />)
                     }

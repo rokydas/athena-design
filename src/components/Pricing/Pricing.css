@@ -5,3 +5,9 @@
     background-position: left center;
     height: 500px;
 } */
+
+.custom-container {
+    width: 80%;
+    margin: auto;
+}
+
