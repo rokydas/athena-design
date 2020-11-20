@@ -1,4 +1,5 @@
 import './App.css';
+
 import Contact from './components/Contact/Contact';
 import Pricing from './components/Pricing/Pricing';
 
