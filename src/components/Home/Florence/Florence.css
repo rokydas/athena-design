@@ -1,7 +1,28 @@
-.btn{
+/* .btn{
     background: linear-gradient(128deg,#2af598 0%,#009efd 100%);
     font-size:18px ;
     color:white;
     border-radius: 20px 0px 20px 0px;
     font-weight:500px;
+} */
+
+.florence {
+    margin-top: 60px;
+    padding-right: 180px;
+}
+
+.florence h1 {
+    font-size: 80px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .florence h1 {
+        font-size: 40px;
+    }
+
+    .florence {
+        margin-top: 10px;
+        padding-right: 8px;
+        margin-bottom: 50px;
+    }
 }

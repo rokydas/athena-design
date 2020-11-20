@@ -18,7 +18,7 @@ const PricingSingle = ({ pricing }) => {
                 <p>Free Stock Photos </p>
                 <p>{days} Days Free Support</p>
                 <p>24/7 Support</p>
-                <button className="order-btn">Order Now</button>
+                <button className="custom-btn">Order Now</button>
             </div>
         </div>
     );
