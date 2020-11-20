@@ -6,6 +6,10 @@
     height: 500px;
 } */
 
+.pricing {
+    text-align: center;
+}
+
 .custom-container {
     width: 80%;
     margin: auto;
