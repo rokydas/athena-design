@@ -12,9 +12,9 @@ const Home = () => {
         <div>
             <Header></Header>
             <Florence></Florence>
-            {/* <What></What> */}
-            {/* <Stay></Stay> */}
-            {/* <Our></Our> */}
+            <What></What>
+            <Stay></Stay>
+            <Our></Our>
             <Pricing />
             <Contact />
         </div>

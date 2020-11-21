@@ -5,8 +5,8 @@ import { pricingData } from './pricingData';
 const Pricing = () => {
 
     return (
-        <div className="pricing">
-            <p className="p-5" style={{fontSize: '40px'}}>CHOOSE YOUR DEDICATED TEAM</p>
+        <div className="pricing pt-5 mt-5">
+            <p className="p-5" style={{fontSize: '33px'}}>CHOOSE YOUR DEDICATED TEAM</p>
             <div className="custom-container">
                 <div className="row">
                     {
