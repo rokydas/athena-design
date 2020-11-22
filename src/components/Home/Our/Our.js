@@ -10,14 +10,14 @@ const Our = () => {
         <div className="custom-container mt-5 pt-5">
             <div className="row">
 
-                <div className="col-md-6 d-flex align-items-center our-text">
+                <div className="col-xl-6 col-lg-12 col-md-12 col-sm-12 d-flex align-items-center our-text">
                     <div>
                         <h2>Our Achievements</h2>
                         <p className="text-secondary">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letter.</p>
                     </div>
                 </div>
 
-                <div className="col-md-3 pb-4 d-flex justify-content-center text-center">
+                <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6 pb-4 d-flex justify-content-center text-center">
                     <div>
                         <div className="achievement d-flex">
                             <div className="d-flex align-items-center mr-5">
@@ -43,7 +43,7 @@ const Our = () => {
                     </div>
                 </div>
 
-                <div className="col-md-3 d-flex justify-content-center text-center">
+                <div className="col-xl-3 col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center text-center">
                     <div>
                         <div className="achievement d-flex">
                             <div className="d-flex align-items-center mr-5">

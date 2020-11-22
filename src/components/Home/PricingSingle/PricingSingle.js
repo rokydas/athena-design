@@ -6,7 +6,7 @@ const PricingSingle = ({ pricing }) => {
     const { price, forWhat, innerPage, days } = pricing;
 
     return (
-        <div className="col-xl-4 col-lg-4 col-md-4">
+        <div className="col-xl-4 col-lg-4 col-md-12">
             <div className="price-single">
                 <h1 style={{fontSize: '50px'}}>${price}</h1>
                 <p>{forWhat}</p>

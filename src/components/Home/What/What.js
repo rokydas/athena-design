@@ -16,33 +16,33 @@ const What = () => {
 
             <div className="row">
 
-                <div className="col-md-3">
+                <div className="col-xl-3 col-lg-6 col-md-6">
                     <div className="service">
-                        <img src={blue} /><br /><br />
+                        <img className="img-fluid" src={blue} /><br /><br />
                         <h6>Experience Design</h6>
                         <small className="text-secondary">The point of using Lorem<br />Ipsum is that it has a more-or<br />less normal.</small>
                     </div>
                 </div>
 
-                <div className="col-md-3">
+                <div className="col-xl-3 col-lg-6 col-md-6">
                     <div className="service">
-                        <img src={green} /><br /><br />
+                        <img className="img-fluid" src={green} /><br /><br />
                         <h6>Interface Design</h6>
                         <small className="text-secondary">The point of using Lorem<br />Ipsum is that it has a more-or<br />less normal.</small>
                     </div>
                 </div>
 
-                <div className="col-md-3">
+                <div className="col-xl-3 col-lg-6 col-md-6">
                     <div className="service">
-                        <img src={red} /><br /><br />
+                        <img className="img-fluid" src={red} /><br /><br />
                         <h6>Prototyping</h6>
                         <small className="text-secondary">The point of using Lorem<br />Ipsum is that it has a more-or<br />less normal.</small>
                     </div>
                 </div>
 
-                <div className="col-md-3">
+                <div className="col-xl-3 col-lg-6 col-md-6">
                     <div className="service">
-                        <img src={violet} /><br /><br />
+                        <img className="img-fluid" src={violet} /><br /><br />
                         <h6>Illustration</h6>
                         <small className="text-secondary">The point of using Lorem<br />Ipsum is that it has a more-or<br />less normal.</small>
                     </div>
