@@ -1,0 +1,17 @@
+/* .pricing {
+    background-image: url('../../Illustration/pricing-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    height: 500px;
+} */
+
+.pricing {
+    text-align: center;
+}
+
+.custom-container {
+    width: 80%;
+    margin: auto;
+}
+
