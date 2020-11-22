@@ -6,6 +6,8 @@ import Stay from './Stay/Stay';
 import What from './What/What';
 import Pricing from './Pricing/Pricing';
 import Contact from './Contact/Contact';
+import Footer from './Footer/Footer';
+
 
 const Home = () => {
     return (
@@ -17,6 +19,7 @@ const Home = () => {
             <Our></Our>
             <Pricing />
             <Contact />
+            <Footer />
         </div>
     );
 };
